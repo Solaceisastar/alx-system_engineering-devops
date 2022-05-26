@@ -1,2 +1,4 @@
-i 'I did it'
+
+#!/bin/bash
+echo 'go girl'
 
