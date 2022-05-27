@@ -1,1 +1,1 @@
-my second readme
+this readme is about all shell permissions
