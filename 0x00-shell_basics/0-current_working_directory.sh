@@ -1,4 +1,3 @@
-
 #!/bin/bash
-echo 'go girl'
+echo "pwd"
 
